@@ -1,0 +1,49 @@
+.display-large {
+    @apply font-semibold text-[3.563rem];
+}
+.display-medium {
+    @apply font-semibold text-[2.813rem];
+}
+.display-small {
+    @apply font-semibold text-[2.25rem];
+}
+
+.headline-large {
+    @apply font-semibold text-[2rem];
+}
+.headline-medium {
+    @apply font-semibold text-[1.75rem];
+}
+.headline-small {
+    @apply font-semibold text-[1.5rem];
+}
+
+.title-large {
+    @apply font-medium text-[1.25rem];
+}
+.title-medium {
+    @apply font-medium text-[1rem];
+}
+.title-small {
+    @apply font-medium text-[1rem];
+}
+
+.label-large {
+    @apply font-semibold text-[1rem];
+}
+.label-medium {
+    @apply font-semibold text-[0.875rem];
+}
+.label-small {
+    @apply font-semibold text-[0.75rem];
+}
+
+.body-large {
+    @apply text-[1rem];
+}
+.body-medium {
+    @apply text-[0.875rem];
+}
+.body-small {
+    @apply text-[0.75rem];
+}

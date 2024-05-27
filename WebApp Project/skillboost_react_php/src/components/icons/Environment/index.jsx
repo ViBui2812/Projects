@@ -1,0 +1,13 @@
+export { default as Bulb } from "./Bulb";
+export { default as Coffee } from "./Coffee";
+export { default as CoffeToGo } from "./CoffeToGo";
+export { default as Cookie } from "./Cookie";
+export { default as Cupcake } from "./Cupcake";
+export { default as FirstAid } from "./FirstAid";
+export { default as Leaf } from "./Leaf";
+export { default as Moon } from "./Moon";
+export { default as Planet } from "./Planet";
+export { default as Puzzle } from "./Puzzle";
+export { default as Rainbow } from "./Rainbow";
+export { default as Sun } from "./Sun";
+export { default as WaterDrop } from "./WaterDrop";

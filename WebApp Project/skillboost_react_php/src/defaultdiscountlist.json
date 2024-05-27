@@ -1,0 +1,22 @@
+[
+    {
+        "discount_code":"D01",
+        "discount_name":"Giảm giá người mới",
+        "discount_value":"10%"
+    },
+    {
+        "discount_code":"D02",
+        "discount_name":"Giảm giá học sinh",
+        "discount_value":"15%"
+    },
+    {
+        "discount_code":"D03",
+        "discount_name":"Giảm giá khách hàng thân thiết",
+        "discount_value":"10%"
+    },
+    {
+        "discount_code":"D04",
+        "discount_name":"Giảm giá dịp lễ",
+        "discount_value":"15%"
+    }
+]

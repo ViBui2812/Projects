@@ -1,0 +1,17 @@
+[
+    {
+        "discount_code":"DD01",
+        "discount_name":"Giảm giá 10%",
+        "discount_value":"10%"
+    },
+    {
+        "discount_code":"DD02",
+        "discount_name":"Giảm giá 15%",
+        "discount_value":"15%"
+    },
+    {
+        "discount_code":"DD03",
+        "discount_name":"Giảm giá khách 20%",
+        "discount_value":"20%"
+    }
+]
