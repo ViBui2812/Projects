@@ -51,7 +51,7 @@ def to_markdown(text):
   text = text.replace('•', '  *')
   return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-GOOGLE_API_KEY = "AIzaSyD_-6XvEV2qharJIhf_ewdKjMt5MmfxCUk"
+GOOGLE_API_KEY = {#YOUR GOOGLE API KEY}
 
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-pro-latest')
